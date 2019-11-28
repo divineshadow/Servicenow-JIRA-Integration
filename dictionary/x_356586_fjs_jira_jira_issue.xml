@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="JIRA Issue" max_length="40" name="x_356586_fjs_jira_jira_issue" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Assignee" max_length="40" name="u_assignee" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="1000" name="u_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Incident Type" max_length="40" name="u_incident_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Issue Key" max_length="40" name="u_issue_key" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Issue Type" max_length="40" name="u_issue_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="JIRA Comment ID" max_length="40" name="u_jira_comment_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="JIRA Issue Display" max_length="40" name="u_jira_issue_display" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="JIRA Issue ID" max_length="40" name="u_jira_issue_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="JIRA Updated By" max_length="1000" name="u_jira_updated_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="JIRA URL" max_length="1000" name="u_jira_url" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="On Hold Reason" max_length="2500" name="u_on_hold_reason" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Priority" max_length="40" name="u_priority" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project" max_length="1000" name="u_project" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project Name" max_length="1000" name="u_project_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reporter" max_length="1000" name="u_reporter" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolver Group" max_length="2500" name="u_resolver_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ServiceNow Sys ID" max_length="4000" name="u_servicenow_sys_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="1000" name="u_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Summary" max_length="2000" name="u_summary" type="string"/>
+    </element>
+</database>
