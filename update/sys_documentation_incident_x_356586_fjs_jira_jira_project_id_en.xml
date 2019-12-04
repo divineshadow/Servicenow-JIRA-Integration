@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_356586_fjs_jira_jira_project_id" label="JIRA Project ID" language="en" table="incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_356586_fjs_jira_jira_project_id</element>
+            <help/>
+            <hint/>
+            <label>JIRA Project ID</label>
+            <language>en</language>
+            <name>incident</name>
+            <plural>JIRA Project IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 11:19:37</sys_created_on>
+            <sys_id>6ad07d05db21001005ed7a61399619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>JIRA Project ID</sys_name>
+            <sys_package display_value="FJS Jira Integration" source="x_356586_fjs_jira">05526bc7dbd5001005ed7a6139961975</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FJS Jira Integration">05526bc7dbd5001005ed7a6139961975</sys_scope>
+            <sys_update_name>sys_documentation_incident_x_356586_fjs_jira_jira_project_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 11:19:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="63" text_index="true" type="collection">
+        <element label="JIRA Issue" max_length="40" name="x_356586_fjs_jira_jira_issue" type="boolean"/>
+        <element label="JIRA Issue Number" max_length="40" name="x_356586_fjs_jira_jira_issue_number" type="string"/>
+        <element label="JIRA Project ID" max_length="10" name="x_356586_fjs_jira_jira_project_id" type="string"/>
+        <element label="JIRA Project Name" max_length="40" name="x_356586_fjs_jira_jira_project_name" type="string"/>
+        <element label="JIRA URL" max_length="1024" name="x_356586_fjs_jira_jira_url" type="url"/>
+    </element>
+</database>

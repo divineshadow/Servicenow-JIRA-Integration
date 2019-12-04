@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Incident" source="com.snc.incident">9ae74707dbd1001005ed7a61399619d8</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 11:18:45</sys_created_on>
+        <sys_id>f1a07905db21001005ed7a6139961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="FJS Jira Integration" source="x_356586_fjs_jira">05526bc7dbd5001005ed7a6139961975</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 11:18:45</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
